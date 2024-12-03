@@ -1,5 +1,3 @@
-Here’s a sample **README.md** file for your Selenium Automation project on GitHub:
-
 ---
 
 # Selenium Automation for Trello  
@@ -155,11 +153,3 @@ selenium/
 - Add cross-browser compatibility tests.
 - Implement CI/CD pipelines for automated test execution.
 - Extend test coverage to include API interactions.
-
----
-
-Feel free to explore, use, and enhance this project. Contributions are welcome!
-
---- 
-
-Let me know if you'd like further customization!

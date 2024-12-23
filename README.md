@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04a348b6-948c-47fe-8adc-60b6de784edd)# **Selenium Automation for Trello**
+# **Selenium Automation for Trello**
 
 This repository features automated test scripts built with Selenium and Python to validate key functionalities of the [Trello](https://trello.com/) web application. This project demonstrates end-to-end testing, ensuring seamless user experiences and robust system reliability.
 
